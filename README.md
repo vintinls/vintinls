@@ -28,14 +28,6 @@
 
 ---
 
-### 📊 Estatísticas
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorhugodev&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhugodev&layout=compact&theme=radical" />
-</p>
-
----
-
 ### 🌐 Conecte-se comigo
 <p align="left">
   <a href="https://www.linkedin.com/in/victor-hugo-lisboa-machado-6133b2300/" target="_blank">
